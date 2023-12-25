@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 ## Badges and Holopins
 
 [![An image of @iparth08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iparth08)](https://holopin.io/@iparth08)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iParth08&show_icons=true&locale=en&layout=compact" alt="iParth08" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iParth08&show_icons=true&locale=en" alt="iParth08" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iParth08&" alt="iParth08" /></p>
