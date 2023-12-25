@@ -32,4 +32,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  /> -->
 </div>
 
+## What I Made
+
+## Badges and Holopins
+
 [![An image of @iparth08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iparth08)](https://holopin.io/@iparth08)
