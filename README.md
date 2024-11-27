@@ -1,3 +1,5 @@
+![banner](https://wallpaperswide.com/download/one_piece_luffy_superpower-wallpaper-3840x1080.jpg)
+
 ## 🌌 Hi there! I'm **Parth** (Shwet Prakash) 👋
 
 > **“An exceptional learner on a mission to transform ideas into impactful solutions.”**  
